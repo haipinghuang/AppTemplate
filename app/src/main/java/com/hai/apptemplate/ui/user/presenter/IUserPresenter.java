@@ -6,7 +6,7 @@ package com.hai.apptemplate.ui.user.presenter;
  * Email h1132760021@sina.com
  */
 public interface IUserPresenter {
-    void loadData();
+    void loadData(String userName, String pwd);
 
     void clearInput();
 }
