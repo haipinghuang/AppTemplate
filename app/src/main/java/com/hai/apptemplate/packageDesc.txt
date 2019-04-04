@@ -1,0 +1,4 @@
+本app开发模板包含的功能点如下：
+
+1：retrofit与okhttp开发模块
+2：mvp开发结构
