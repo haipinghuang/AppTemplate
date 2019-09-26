@@ -1,4 +1,4 @@
-package com.hai.apptemplate.base;
+package com.hai.apptemplate.ui.base;
 
 public class BaseResponse<T> {
     public static final int CODE_SUCCESS = 200;

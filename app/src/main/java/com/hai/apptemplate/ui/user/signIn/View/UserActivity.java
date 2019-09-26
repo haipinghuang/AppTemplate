@@ -1,4 +1,4 @@
-package com.hai.apptemplate.ui.user.View;
+package com.hai.apptemplate.ui.user.signIn.View;
 
 import android.os.Bundle;
 import android.widget.Button;
@@ -6,9 +6,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.hai.apptemplate.R;
-import com.hai.apptemplate.base.BaseActivity;
-import com.hai.apptemplate.ui.user.presenter.IUserPresenter;
-import com.hai.apptemplate.ui.user.presenter.UserPresenterImpl;
+import com.hai.apptemplate.ui.base.BaseActivity;
+import com.hai.apptemplate.ui.user.signIn.presenter.IUserPresenter;
+import com.hai.apptemplate.ui.user.signIn.presenter.UserPresenterImpl;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

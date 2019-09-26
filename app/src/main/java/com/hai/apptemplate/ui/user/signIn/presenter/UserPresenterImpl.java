@@ -1,9 +1,9 @@
-package com.hai.apptemplate.ui.user.presenter;
+package com.hai.apptemplate.ui.user.signIn.presenter;
 
-import com.hai.apptemplate.ui.user.View.IUserView;
-import com.hai.apptemplate.ui.user.View.UserActivity;
-import com.hai.apptemplate.ui.user.mode.IUser;
-import com.hai.apptemplate.ui.user.mode.UserMode;
+import com.hai.apptemplate.ui.user.signIn.View.IUserView;
+import com.hai.apptemplate.ui.user.signIn.View.UserActivity;
+import com.hai.apptemplate.ui.user.signIn.mode.IUser;
+import com.hai.apptemplate.ui.user.signIn.mode.UserMode;
 
 /**
  * fileDesc

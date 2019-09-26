@@ -1,4 +1,4 @@
-package com.hai.apptemplate.ui.user.presenter;
+package com.hai.apptemplate.ui.user.signIn.presenter;
 
 /**
  * fileDesc

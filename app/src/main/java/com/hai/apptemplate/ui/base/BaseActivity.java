@@ -1,4 +1,4 @@
-package com.hai.apptemplate.base;
+package com.hai.apptemplate.ui.base;
 
 import android.support.v7.app.AppCompatActivity;
 

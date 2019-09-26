@@ -5,8 +5,9 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.hai.apptemplate.R;
-import com.hai.apptemplate.base.BaseActivity;
-import com.hai.apptemplate.ui.user.View.UserActivity;
+import com.hai.apptemplate.ui.base.BaseActivity;
+import com.hai.apptemplate.ui.user.signIn.View.UserActivity;
+import com.hai.apptemplate.ui.user.signUp.UserSignUpActivity;
 import com.hai.apptemplate.utils.MyToast;
 
 public class MainActivity extends BaseActivity {
@@ -22,8 +23,8 @@ public class MainActivity extends BaseActivity {
             case R.id.btnOne:
                 MyToast.show(this, "One");
                 break;
-            case R.id.btnTwo:
-                MyToast.show(this, "Two");
+            case R.id.btnSignUp:
+                startActivity(new Intent(this, UserSignUpActivity.class));
                 break;
             case R.id.btnThree:
                 MyToast.show(this, "Three");

@@ -1,4 +1,4 @@
-package com.hai.apptemplate.ui.user.mode;
+package com.hai.apptemplate.ui.user.signIn.mode;
 
 import android.text.TextUtils;
 

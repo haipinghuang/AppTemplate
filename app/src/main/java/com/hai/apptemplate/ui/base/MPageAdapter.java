@@ -1,4 +1,4 @@
-package com.hai.apptemplate.base;
+package com.hai.apptemplate.ui.base;
 
 import android.support.v4.view.PagerAdapter;
 import android.view.View;
